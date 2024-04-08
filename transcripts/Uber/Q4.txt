@@ -1,0 +1,231 @@
+Uber Technologies, Inc.
+Q4 2023 Prepared Remarks
+February 7, 2024
+
+Dara Khosrowshahi, CEO
+Q4 was a standout quarter to cap off a standout year. Consumer activity remained healthy across
+the world, supported by the continued shift of spending from retail to services. Our consumer
+base is now bigger and more engaged than ever: audience (MAPCs) and frequency (monthly trips
+per MAPC) both hit new all-time highs. And for the second consecutive quarter, Gross Bookings
+accelerated year-over-year (YoY), to 21% on a constant currency basis. Notably, trip growth of 24%
+once again outpaced Gross Bookings growth. These strong top-line trends, combined with
+continued rigor on costs, translated to $1.3 billion in Adjusted EBITDA and $652 million in GAAP
+operating income.
+2023 was a year of sustainable, profitable growth for Uber as we executed against our strategy.
+We grew our business by improving marketplace health and scaling new products, bolstering our
+competitive position in key markets. Powering this growth are the 6.8 million monthly drivers and
+couriers who earned nearly $62 billion on our platform during the year, up 24% YoY on a constant
+currency basis. We also made important progress on key areas of strategic focus, including
+membership, electrification, safety, public policy, and autonomous partnerships. And we further
+extended our technical advantages by sharing innovations across our multiple business lines,
+driving differentiated results.
+Turning to 2024, I want to highlight several key priorities. First, our goal is to make the Uber use
+case even more of an everyday reality. We’ll continue to enhance the power of our platform by
+expanding the number of consumers who use multiple Uber products, turbocharged by our Uber
+One membership program. Second, we will strategically reinvest into promising new growth
+vectors to deliver strong multi-year growth with healthy long-term unit economics. Lastly, we will
+maintain our industry-leading cost structure and use our data advantage to drive more efficient
+pricing, matching, and incentive spend.
+Our strategy is working, and we are proving ourselves to be the category-defining platform, as
+well as thoughtful partners to stakeholders globally. I’m energized by the pace of innovation and
+the momentum I’m seeing across the company. We will continue to capitalize on the large,
+valuable opportunities ahead of us. We remain well positioned to sustainably generate leading
+shareholder value over the long-term.
+Mobility
+The demand environment remained robust during our busiest quarter of the year, as we posted
+Mobility Gross Bookings growth of 28% YoY on a constant-currency basis. Notably, Latin America
+1
+
+and Asia Pacific saw outsized trip growth on strong holiday travel trends and growth in our
+non-UberX portfolio. Growth was consistent across all use cases, leading to a steady increase in
+both Mobility MAPCs and monthly trips per MAPC as pricing trends continued to normalize.
+We made strong progress in broadening Mobility use cases and price segmentation. Our suite of
+non-UberX products like Reserve, Taxi, Moto, Uber for Business, and Shared Rides continued to
+grow more than 80% YoY in Q4, generating $11 billion in annualized bookings (or 14% of Mobility
+Gross Bookings). In Q4, Shared Rides became the fourth non-UberX product to cross $1 billion in
+annualized bookings as we expanded the service to 11 new markets. While Shared Rides margins
+are lower than UberX margins, we have seen meaningful improvements in match rates and rider
+opt-in – both of which are key components to building Shared Rides into a scaled, sustainable,
+ROI positive product. We continued to bring more taxis onto the platform, announcing that
+London’s iconic Black Cabs will be available on Uber later this year. We are also seeing strong
+adoption of premium products in our business travel segment, with over 40% of corporate travel
+activity on Uber happening on products like Business Comfort, Uber Black, and Reserve.
+Supply trends continue to improve, with active drivers up 30% YoY and driver engagement
+(defined as monthly supply hours per active driver) up 10% YoY. At our Only on Uber driver event,
+we announced more than 20 improvements to the Uber Driver app, while also taking steps to
+make earning on Uber both safer (with features like Record my Ride) and fairer (with
+improvements to our account deactivation process). Our focus on product innovation and quality,
+as well as the breadth of ways to earn on Uber, continues to separate us from our competitors on
+driver preference. We will continue to grow supply both through our traditional base and through
+new pools of supply, like taxis and fleets.
+Delivery
+Delivery Gross Bookings growth accelerated for the third quarter in a row, up 17% YoY on a
+constant-currency basis, while Adjusted EBITDA nearly doubled YoY and reached a record
+margin. In fact, Delivery Gross Bookings growth was the highest in two years, driven by focused
+investments in product experience and increased membership penetration. Encouragingly, an
+increasing percentage of our Delivery Gross Bookings growth is coming from trip and audience
+growth this year versus pricing last year.
+Our US & Canada business displayed broad-based operational improvements, with accelerating
+Gross Bookings YoY growth and record profitability. We’ve seen tremendous momentum in
+membership, which now represents nearly 50% of US Delivery Gross Bookings (up 10 percentage
+points YoY) with strong retention levels. Outside of the US, we continue to be encouraged by the
+progress we have made to broaden our leading competitive position across our top international
+markets. In addition, we jointly launched with Domino’s in Taiwan and announced pilots in the UK
+and Ireland, after scaling across the US.
+
+2
+
+In 2023, we significantly expanded Delivery margins through improved network efficiencies,
+advertising, and marketing and incentive optimization. We also launched over 100 initiatives to
+root out a host of customer experience problems that can arise during deliveries. We continue to
+be laser focused on these fundamental operational improvements, which contribute to higher
+consumer satisfaction as well as margin expansion.
+Even as we expand Delivery margins, we are strategically investing in Grocery & Retail (formerly
+referred to as New Verticals) which also includes categories such as convenience and alcohol.
+Grocery & Retail generated $7 billion of annualized Gross Bookings in Q4 (or 10% of Delivery
+Gross Bookings), growing roughly 40% YoY on a constant-currency basis. For perspective,
+Grocery & Retail Gross Bookings accounted for 20% of Delivery’s overall YoY growth. We
+completed the integration of Cornershop and launched several new features that drove a clear
+impact on key consumer metrics like new user acquisition and frequency. We also continued to
+make progress on Grocery & Retail selection in the US, bringing merchants like Big Lots, Sprouts
+Farmers Market, and Eataly onto the platform.
+Freight
+Freight Gross Bookings were stable sequentially and remained pressured by near-term
+category-wide headwinds, as capacity in the trucking sector continues to normalize. In Q4, we
+started to onboard several new enterprise customers, including food and beverage-industry
+leader Danone North America, to the Transportation Management business, driven in part by
+enhanced Uber Freight Transportation Management System (TMS) capabilities. We also launched
+our new Emissions Dashboard to provide shippers with comprehensive insights into their
+network’s emissions across all modes. We remain disciplined in cost management, with Adjusted
+EBITDA stable sequentially. We are seeing some glimmers of light in terms of spot freight rates,
+but it’s far too soon to assume the glimmer will turn into a trend.
+Platform initiatives
+Our Uber One member base continued its impressive growth, now at 19 million members across
+25 countries. We believe Uber One is the best membership offer in the space, with the best
+“content” – or the most ways to save – as evidenced by our steady progress on adoption, with
+members generating 30% of Mobility and Delivery Gross Bookings (up 700 bps YoY). In addition
+to geographic expansion, we’re driving new member growth through brand campaigns and user
+experience improvements, such as rolling out a prompt to convert non-members to members
+during the Delivery checkout process. In the UK, our member base grew over 50% QoQ as
+consumers responded positively to our brand campaign with Robert De Niro and Asa Butterfield.
+We’ve also seen meaningful increases in member retention and engagement by reducing
+payment failures and cancellations, expanding Member Quests, and more than doubling our
+Annual Plan adoption through initiatives like our Black Friday campaign in the US.
+
+3
+
+Our advertising business continues to scale profitably, reaching a $900 million revenue run-rate
+for Q4. We expanded Sponsored Items on Uber Eats to the alcohol category and to new markets
+across Latin America. We also launched 150+ product features and experiments in 2023 across
+our Mobility and Delivery surfaces, including Post-Checkout display and video, Sponsored
+Search, and Journey video. Further, we continued our direct sales global expansion with the
+addition of Japan, Taiwan, and Spain. As we look ahead, we are focused on growing demand
+with businesses and merchants of all sizes, both on and off our platform, by improving our
+ranking and bidding algorithms and strengthening our ad tech capabilities across video,
+targeting, insights, measurement, and attribution.
+Autonomous vehicles
+We have 10 autonomous partnerships across Mobility, Delivery, and Freight, highlighting the value
+Uber can bring to autonomous providers. As of Q4, riders have taken tens of thousands of
+autonomous, fully electric rides on Uber and we are achieving high rider ratings via our hybrid
+marketplace, which matches the right riders to the right autonomous vehicle trips. Our hybrid
+network enables incremental autonomous commercialization while preserving reliability and
+convenience. As such, our autonomous partners have seen high rates of utilization on Uber. We
+remain confident in our ability to best aggregate autonomous demand. Our scale means we can
+bring a massive consumer base, industry-leading matching and routing technology, in addition to
+relationships with hundreds of thousands of merchants; in turn, that means our AV partners can
+ensure their vehicles are highly utilized, resulting in better economics for them, while delivering
+an excellent experience to consumers. We are well positioned to add substantial value for our AV
+partners and the cities we serve.
+
+Prashanth Mahendra-Rajah, CFO
+Financial recap
+Both Gross Bookings and Adjusted EBITDA surpassed the high end of our Q4 outlook. Gross
+Bookings growth accelerated to 21% YoY on a constant-currency basis (23% excluding Freight), as
+we generated Gross Bookings of $37.6 billion. Foreign exchange was a tailwind of roughly $500
+million YoY (or roughly 160 bps). We grew our revenue by 13% YoY on a constant-currency basis to
+$9.9 billion. As a reminder, certain business model changes, which have no real economic impact
+to profitability, negatively impacted revenue reporting by $529 million and combined Mobility and
+Delivery YoY revenue growth by approximately 7 percentage points.
+We maintained our focus on operational efficiency and disciplined expense management, which
+contributed to all-time high Adjusted EBITDA of $1.3 billion (note: foreign exchange was a $30
+million YoY tailwind). This result represents a record Adjusted EBITDA margin of 3.4% of Gross
+Bookings, an increase of 130 bps YoY.
+
+4
+
+In Q4, we also improved our GAAP operating profitability, with income from operations of $652
+million, compared to $394 million and a loss of $142 million in Q3 2023 and Q4 2022,
+respectively. Income from operations improved QoQ due to improved operating performance and
+lower stock-based compensation expense. We demonstrated strong operating leverage in Q4,
+with GAAP operating expenses as a percentage of Gross Bookings declining on a YoY basis
+across the board. Net headcount was down roughly 5% QoQ from Q3, driven by role eliminations
+as part of M&A integrations. For the full year 2023, net headcount was down 7% YoY. We expect
+to demonstrate further operating leverage over the coming quarters through headcount
+discipline.
+Balance sheet and liquidity
+We continue to maintain a strong liquidity position, ending the quarter with $5.4 billion in
+unrestricted cash, cash equivalents, and short-term investments, with our equity stakes marked at
+$6.1 billion. During Q4, we recognized a $1.0 billion unrealized pre-tax gain related to the
+revaluation of our equity investments. Our GAAP net income may continue to see swings from
+quarter-to-quarter due to the large size of equity stakes on our balance sheet. We continue to
+have sufficient liquidity to give us the flexibility to maintain these positions, with the aim of
+maximizing long-term value for Uber and our shareholders.
+Free cash flow (FCF) and capital allocation
+We generated $768 million of FCF in Q4, an increase of $1.1 billion YoY, compared to Adjusted
+EBITDA of $1.3 billion. Note that Q4 FCF includes cash outflows related to a number of discrete
+legal and tax matters we disclosed in our Q3 2023 earnings release. As a reminder, FCF
+conversion on a quarterly basis can fluctuate due to working capital seasonality and the timing of
+cash payments, among other factors, and we encourage investors to evaluate our FCF on an
+annual basis. On a trailing twelve month basis, we generated $3.4 billion of FCF, compared to
+Adjusted EBITDA of $4.1 billion. Overall, we are pleased with our underlying FCF generation,
+demonstrating the significant earnings power of the business.
+We remain on a very clear path to an investment grade credit rating, which continues to be an
+important part of our overall capital structure focus. This commitment should provide investors
+comfort that we will continue to methodically ramp FCF over the coming years, while being
+disciplined on capital allocation and managing our capital structure. This means that we will have
+a high bar for any M&A opportunities, and our organic growth efforts will keep a critical eye on
+healthy unit economics as we continue to scale globally.
+We are pleased with the progress we have made on improving profitability and generating cash
+flow. We plan to provide an update on returning capital to shareholders as part of a broader
+capital allocation framework at our Investor Update next week.
+5
+
+Outlook
+Based on quarter-to-date trends, for Q1:
+●
+
+●
+
+We expect Gross Bookings between $37.0 billion and $38.5 billion, growing 18% to 23%
+on a constant-currency basis.
+○ Our outlook assumes a roughly 1 percentage point currency headwind to reported
+YoY growth.
+○ We expect Freight Gross Bookings to be roughly flat QoQ.
+We expect Adjusted EBITDA of $1.26 billion to $1.34 billion.
+
+In 2023, we achieved an important profitability milestone of quarterly and full-year positive GAAP
+operating income. Adjusted EBITDA remains our primary profitability metric, but we recognize it
+excludes certain expenses like stock-based compensation, which is a real and important cost to
+operating our business. Looking ahead, we are focused on improving the scale and quality of our
+profitability and look forward to accelerating our momentum over the coming quarters.
+
+Forward-Looking Statements Disclaimer
+These prepared remarks include both GAAP and non-GAAP financial measures. Additional
+disclosures regarding these non-GAAP measures, including a reconciliation of GAAP to
+non-GAAP measures, are included in the press release, supplemental slides and our filings with
+the SEC, each of which is posted to investor.uber.com.
+Certain statements in this presentation and on this call are forward-looking statements. You
+should not place undue reliance on forward-looking statements. Actual results may differ
+materially from these forward-looking statements, and we do not undertake any obligation to
+update any forward-looking statements we make today, except as required by law.
+For more information about factors that may cause actual results to differ materially from
+forward-looking statements, please refer to the press release we issued today and in other filings
+made with the SEC.
+All Q4 growth rates reflect year-over-year growth and are on a constant-currency basis, unless
+otherwise noted. Lastly, we ask you to review our earnings press release for a detailed Q4
+financial review and our Q4 supplemental slides deck for additional disclosures that provide
+context on recent business performance.
+
+6
+
+
