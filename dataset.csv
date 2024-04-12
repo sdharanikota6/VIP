@@ -1,20 +1,20 @@
 Company,Ticker,Date,Quarter,Actual EPS,Analyst Estimate,SUE,Transcript
-Apple ,AAPL,"February 3, 2023",Q1,$1.88,$1.95,-$0.07,Apple Inc. (NASDAQ:AAPL) Q1 2023 Earnings Call Transcript
+Apple,AAPL,"February 3, 2023",Q1,$1.88,$1.95,-$0.07,Apple Inc. (NASDAQ:AAPL) Q1 2023 Earnings Call Transcript
 Apple,AAPL,"May 5, 2023",Q2,$1.52,$1.43,$0.11,Apple Inc. (NASDAQ:AAPL) Q2 2023 Earnings Call Transcript
 Apple,AAPL,"August 4, 2023",Q3,$1.26,$1.20,$0.06,https://finance.yahoo.com/news/apple-inc-nasdaq-aapl-q3-144605495.html
 Apple,AAPL,"November 4, 2023",Q4,$1.46,$1.39,$0.07,https://finance.yahoo.com/news/apple-inc-nasdaq-aapl-q4-170011284.html
-Walmart ,WMT,"May 17, 2022",Q1,$1.30,$1.48,-$0.18,https://s201.q4cdn.com/262069030/files/doc_financials/2023/q1/1Q23-Transcript.pdf
-Walmart ,WMT,"August 16, 2022",Q2,$1.77,$1.64,$0.13,https://corporate.walmart.com/news/2022/08/16/walmart-releases-q2-fy23-earnings
-Walmart ,WMT,"November 15, 2022",Q3,$1.50,$1.32,$0.18,https://www.fool.com/earnings/call-transcripts/2022/11/15/walmart-inc-wmt-q3-2023-earnings-call-transcript/
+Walmart,WMT,"May 17, 2022",Q1,$1.30,$1.48,-$0.18,https://s201.q4cdn.com/262069030/files/doc_financials/2023/q1/1Q23-Transcript.pdf
+Walmart,WMT,"August 16, 2022",Q2,$1.77,$1.64,$0.13,https://corporate.walmart.com/news/2022/08/16/walmart-releases-q2-fy23-earnings
+Walmart,WMT,"November 15, 2022",Q3,$1.50,$1.32,$0.18,https://www.fool.com/earnings/call-transcripts/2022/11/15/walmart-inc-wmt-q3-2023-earnings-call-transcript/
 Walmart,WMT,"February 23, 2023",Q4,$1.71,$1.51,$0.20,https://finance.yahoo.com/news/walmart-inc-nyse-wmt-q4-233055218.html
 Boeing,BA,"April 26, 2023",Q1,-$1.27,-$1.07,-$0.20,https://s2.q4cdn.com/661678649/files/doc_financials/2023/q1/1Q23-Earnings-Call-Transcript.pdf
 Boeing,BA,"July 26, 2023",Q2,-$0.82,-$0.91,$0.09,https://s2.q4cdn.com/661678649/files/doc_financials/2023/q2/2Q23-Earnings-Call-Transcript.pdf
 Boeing,BA,"October 25, 2023",Q3,-$3.26,-$3.18,-$0.08,https://s2.q4cdn.com/661678649/files/doc_financials/2023/q3/3Q23-Earnings-Call-Transcript.pdf
 Boeing,BA,"January 31, 2024",Q4,-$0.47,-$0.72,$0.25,https://s2.q4cdn.com/661678649/files/doc_financials/2023/q4/4q23-earnings-call-transcript-r1.pdf
-UnitedHealth Group,UNH,"April 14, 2023",Q1,$6.26,$6.16,$0.10,https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2023/UNH-Q1-2023-Release.pdf
-UnitedHealth Group,UNH,"July 14, 2023",Q2,$6.14,$5.99,$0.15,https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2023/UNH-Q2-2023-Release.pdf
-UnitedHealth Group,UNH,"October 13, 2023",Q3,$6.56,$6.33,$0.23,https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2023/UNH-Q3-2023-Release.pdf
-UnitedHealth Group,UNH,"January 12, 2024",Q4,$6.16,$5.98,$0.18,https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2023/UNH-Q4-2023-Release.pdf
+UnitedHealth,UNH,"April 14, 2023",Q1,$6.26,$6.16,$0.10,https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2023/UNH-Q1-2023-Release.pdf
+UnitedHealth,UNH,"July 14, 2023",Q2,$6.14,$5.99,$0.15,https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2023/UNH-Q2-2023-Release.pdf
+UnitedHealth,UNH,"October 13, 2023",Q3,$6.56,$6.33,$0.23,https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2023/UNH-Q3-2023-Release.pdf
+UnitedHealth,UNH,"January 12, 2024",Q4,$6.16,$5.98,$0.18,https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2023/UNH-Q4-2023-Release.pdf
 Alphabet,GOOG,"April 25, 2023",Q1,$1.17,$1.08,$0.09,https://abc.xyz/assets/investor/static/pdf/2023_Q1_Earnings_Transcript.pdf
 Alphabet,GOOG,"July 25, 2023",Q2,$1.44,$1.34,$0.10,https://abc.xyz/assets/5f/b1/db9a7c3c4c98a258552778ca62fe/2023-q2-earnings-transcript.pdf
 Alphabet,GOOG,"October 24, 2023",Q3,$1.55,$1.46,$0.09,https://abc.xyz/assets/fd/cf/565e196845929339a35547063709/2023-q3-earnings-transcript.pdf
@@ -35,7 +35,7 @@ Uber,UBER,"March 31, 2023",Q1,-$0.08,-$0.09,$0.01,https://s23.q4cdn.com/40796975
 Uber,UBER,"June 30, 2023",Q2,$0.18,-$0.01,$0.19,https://s23.q4cdn.com/407969754/files/doc_earnings/2023/q2/transcript/Uber-Q2-23-Prepared-Remarks.pdf
 Uber,UBER,"September 30, 2023",Q3,$0.10,$0.07,$0.03,https://s23.q4cdn.com/407969754/files/doc_earnings/2023/q3/transcript/Uber-Q3-23-Prepared-Remarks.pdf
 Uber,UBER,"December 31, 2023",Q4,$0.16,$0.66,$0.50,https://s23.q4cdn.com/407969754/files/doc_earnings/2023/q4/transcript/Uber-Q4-23-Prepared-Remarks.pdf
-JP Morgan,JPM,"April 14, 2023",Q1,$4.10,$3.41,$0.69,https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2023/1st-quarter/1q23-earnings-transcript.pdf
-JP Morgan,JPM,"July 14, 2023",Q2,$4.75,$3.94,$0.81,https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2023/2nd-quarter/2q23-earnings-transcript.pdf
-JP Morgan,JPM,"October 13, 2023",Q3,$4.33,$3.95,$0.38,https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2023/3rd-quarter/jpm-3q23-earnings-call-transcript.pdf
-JP Morgan,JPM,"January 12, 2024",Q4,$3.04,$3.35,-$0.31,https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2023/4th-quarter/jpm-4q23-earnings-call-transcript.pdf
+JP,JPM,"April 14, 2023",Q1,$4.10,$3.41,$0.69,https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2023/1st-quarter/1q23-earnings-transcript.pdf
+JP,JPM,"July 14, 2023",Q2,$4.75,$3.94,$0.81,https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2023/2nd-quarter/2q23-earnings-transcript.pdf
+JP,JPM,"October 13, 2023",Q3,$4.33,$3.95,$0.38,https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2023/3rd-quarter/jpm-3q23-earnings-call-transcript.pdf
+JP,JPM,"January 12, 2024",Q4,$3.04,$3.35,-$0.31,https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2023/4th-quarter/jpm-4q23-earnings-call-transcript.pdf
