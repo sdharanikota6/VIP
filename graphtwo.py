@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 
 # Load the data
-df = pd.read_csv('/Users/aryangarg/Documents/GitHub/VIP/dataset_with_sentiments.csv')
+df = pd.read_csv('/Users/aryangarg/Documents/GitHub/VIP/dataset_with_sentiments23.csv')
 
 # Convert Date to datetime and sort the dataframe
 df['Date'] = pd.to_datetime(df['Date'])

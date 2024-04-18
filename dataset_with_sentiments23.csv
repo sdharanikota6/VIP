@@ -1,41 +1,41 @@
 Company,Ticker,Date,Quarter,Actual EPS,Analyst Estimate,SUE,Transcript,Sentiment,Average_Score
-Apple,AAPL,"February 3, 2023",Q1,$1.88,$1.95,-$0.07,Apple Inc. (NASDAQ:AAPL) Q1 2023 Earnings Call Transcript,POSITIVE,3.53125
-Apple,AAPL,"May 5, 2023",Q2,$1.52,$1.43,$0.11,Apple Inc. (NASDAQ:AAPL) Q2 2023 Earnings Call Transcript,POSITIVE,3.5
+Apple ,AAPL,"February 3, 2023",Q1,$1.88,$1.95,-$0.07,Apple Inc. (NASDAQ:AAPL) Q1 2023 Earnings Call Transcript,POSITIVE,3.53125
+Apple,AAPL,"May 5, 2023",Q2,$1.52,$1.43,$0.09,Apple Inc. (NASDAQ:AAPL) Q2 2023 Earnings Call Transcript,POSITIVE,3.5
 Apple,AAPL,"August 4, 2023",Q3,$1.26,$1.20,$0.06,https://finance.yahoo.com/news/apple-inc-nasdaq-aapl-q3-144605495.html,POSITIVE,3.8214285714285716
 Apple,AAPL,"November 4, 2023",Q4,$1.46,$1.39,$0.07,https://finance.yahoo.com/news/apple-inc-nasdaq-aapl-q4-170011284.html,POSITIVE,3.2413793103448274
-Walmart,WMT,"May 17, 2022",Q1,$1.30,$1.48,-$0.18,https://s201.q4cdn.com/262069030/files/doc_financials/2023/q1/1Q23-Transcript.pdf,NEGATIVE,2.5698924731182795
-Walmart,WMT,"August 16, 2022",Q2,$1.77,$1.64,$0.13,https://corporate.walmart.com/news/2022/08/16/walmart-releases-q2-fy23-earnings,POSITIVE,3.010752688172043
-Walmart,WMT,"November 15, 2022",Q3,$1.50,$1.32,$0.18,https://www.fool.com/earnings/call-transcripts/2022/11/15/walmart-inc-wmt-q3-2023-earnings-call-transcript/,NEGATIVE,2.6451612903225805
+Walmart ,WMT,"May 17, 2022",Q1,$1.30,$1.48,-$0.18,https://s201.q4cdn.com/262069030/files/doc_financials/2023/q1/1Q23-Transcript.pdf,NEGATIVE,2.5698924731182795
+Walmart ,WMT,"August 16, 2022",Q2,$1.77,$1.64,$0.13,https://corporate.walmart.com/news/2022/08/16/walmart-releases-q2-fy23-earnings,POSITIVE,3.010752688172043
+Walmart ,WMT,"November 15, 2022",Q3,$1.50,$1.32,$0.18,https://www.fool.com/earnings/call-transcripts/2022/11/15/walmart-inc-wmt-q3-2023-earnings-call-transcript/,NEGATIVE,2.6451612903225805
 Walmart,WMT,"February 23, 2023",Q4,$1.71,$1.51,$0.20,https://finance.yahoo.com/news/walmart-inc-nyse-wmt-q4-233055218.html,POSITIVE,3.2282608695652173
 Boeing,BA,"April 26, 2023",Q1,-$1.27,-$1.07,-$0.20,https://s2.q4cdn.com/661678649/files/doc_financials/2023/q1/1Q23-Earnings-Call-Transcript.pdf,NEGATIVE,1.971830985915493
 Boeing,BA,"July 26, 2023",Q2,-$0.82,-$0.91,$0.09,https://s2.q4cdn.com/661678649/files/doc_financials/2023/q2/2Q23-Earnings-Call-Transcript.pdf,NEGATIVE,2.2916666666666665
 Boeing,BA,"October 25, 2023",Q3,-$3.26,-$3.18,-$0.08,https://s2.q4cdn.com/661678649/files/doc_financials/2023/q3/3Q23-Earnings-Call-Transcript.pdf,NEGATIVE,2.4615384615384617
 Boeing,BA,"January 31, 2024",Q4,-$0.47,-$0.72,$0.25,https://s2.q4cdn.com/661678649/files/doc_financials/2023/q4/4q23-earnings-call-transcript-r1.pdf,NEGATIVE,2.044776119402985
-UnitedHealth,UNH,"April 14, 2023",Q1,$6.26,$6.16,$0.10,https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2023/UNH-Q1-2023-Release.pdf,NEGATIVE,2.2333333333333334
-UnitedHealth,UNH,"July 14, 2023",Q2,$6.14,$5.99,$0.15,https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2023/UNH-Q2-2023-Release.pdf,NEGATIVE,2.533333333333333
-UnitedHealth,UNH,"October 13, 2023",Q3,$6.56,$6.33,$0.23,https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2023/UNH-Q3-2023-Release.pdf,NEGATIVE,2.064516129032258
-UnitedHealth,UNH,"January 12, 2024",Q4,$6.16,$5.98,$0.18,https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2023/UNH-Q4-2023-Release.pdf,NEGATIVE,2.0
+UnitedHealth Group,UNH,"April 14, 2023",Q1,$6.26,$6.16,$0.10,https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2023/UNH-Q1-2023-Release.pdf,NEGATIVE,2.2333333333333334
+UnitedHealth Group,UNH,"July 14, 2023",Q2,$6.14,$5.99,$0.15,https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2023/UNH-Q2-2023-Release.pdf,NEGATIVE,2.533333333333333
+UnitedHealth Group,UNH,"October 13, 2023",Q3,$6.56,$6.33,$0.23,https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2023/UNH-Q3-2023-Release.pdf,NEGATIVE,2.064516129032258
+UnitedHealth Group,UNH,"January 12, 2024",Q4,$6.16,$5.98,$0.18,https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2023/UNH-Q4-2023-Release.pdf,NEGATIVE,2.0
 Alphabet,GOOG,"April 25, 2023",Q1,$1.17,$1.08,$0.09,https://abc.xyz/assets/investor/static/pdf/2023_Q1_Earnings_Transcript.pdf,POSITIVE,3.6056338028169015
 Alphabet,GOOG,"July 25, 2023",Q2,$1.44,$1.34,$0.10,https://abc.xyz/assets/5f/b1/db9a7c3c4c98a258552778ca62fe/2023-q2-earnings-transcript.pdf,POSITIVE,3.5
 Alphabet,GOOG,"October 24, 2023",Q3,$1.55,$1.46,$0.09,https://abc.xyz/assets/fd/cf/565e196845929339a35547063709/2023-q3-earnings-transcript.pdf,POSITIVE,3.4615384615384617
 Alphabet,GOOG,"January 30, 2024",Q4,$1.64,$1.59,$0.05,https://abc.xyz/assets/8c/66/b8f7cda34ca5bd79588ec685b825/2023-q4-earnings-transcript.pdf,POSITIVE,3.563380281690141
-ExxonMobil,XOM,"April 28, 2023",Q1,$2.79,$2.60,$0.23,https://d1io3yog0oux5.cloudfront.net/_66be7f271c4bcb7db1ea85d23ed59746/exxonmobil/db/2288/22047/webcast_transcript/1Q23+Earnings+Call+Transcript+4-28-23_formatted_FINAL.pdf,NEGATIVE,2.9193548387096775
+ExxonMobil,XOM,"April 28, 2023",Q1,$2.79,$2.60,$0.19,https://d1io3yog0oux5.cloudfront.net/_66be7f271c4bcb7db1ea85d23ed59746/exxonmobil/db/2288/22047/webcast_transcript/1Q23+Earnings+Call+Transcript+4-28-23_formatted_FINAL.pdf,NEGATIVE,2.9193548387096775
 ExxonMobil,XOM,"July 28, 2023",Q2,$1.94,$2.03,-$0.09,https://d1io3yog0oux5.cloudfront.net/_66be7f271c4bcb7db1ea85d23ed59746/exxonmobil/db/2288/22123/webcast_transcript/2Q23+Earnings+Call+Transcript+-+Final.pdf,POSITIVE,3.0821917808219177
-ExxonMobil,XOM,"October 27, 2023",Q3,$2.25,$2.37,-$0.10,https://d1io3yog0oux5.cloudfront.net/_66be7f271c4bcb7db1ea85d23ed59746/exxonmobil/db/2288/22151/webcast_transcript/3Q23+Earnings+Call+Transcript+-+Final+%281%29.pdf,NEGATIVE,2.9
-ExxonMobil,XOM,"February 2, 2024",Q4,$1.91,$2.19,$0.29,https://d1io3yog0oux5.cloudfront.net/_66be7f271c4bcb7db1ea85d23ed59746/exxonmobil/db/2288/22190/webcast_transcript/4Q23+Earnings+Call+Transcript_Final.pdf,NEGATIVE,2.8333333333333335
-Amazon,AMZN,"April 27, 2023",Q1,$0.21,$0.31,$0.10,https://s2.q4cdn.com/299287126/files/doc_financials/2023/q1/Q1-2023-Amazon-Earnings-Release.pdf,NEGATIVE,2.80327868852459
-Amazon,AMZN,"August 3, 2023",Q2,$0.35,$0.65,$0.30,https://s2.q4cdn.com/299287126/files/doc_financials/2023/q2/Q2-2023-Amazon-Earnings-Release.pdf,NEUTRAL,3.0
-Amazon,AMZN,"October 26, 2023",Q3,$0.59,$0.94,$0.35,https://s2.q4cdn.com/299287126/files/doc_financials/2023/q3/AMZN-Q3-2023-Earnings-Release.pdf,POSITIVE,3.076923076923077
-Amazon,AMZN,"February 1, 2024",Q4,$0.79,$1.00,$0.21,https://s2.q4cdn.com/299287126/files/doc_financials/2023/q4/AMZN-Q4-2023-Earnings-Release.pdf,NEGATIVE,2.986666666666667
+ExxonMobil,XOM,"October 27, 2023",Q3,$2.25,$2.37,-$0.12,https://d1io3yog0oux5.cloudfront.net/_66be7f271c4bcb7db1ea85d23ed59746/exxonmobil/db/2288/22151/webcast_transcript/3Q23+Earnings+Call+Transcript+-+Final+%281%29.pdf,NEGATIVE,2.9
+ExxonMobil,XOM,"February 2, 2024",Q4,$1.91,$2.19,-$0.28,https://d1io3yog0oux5.cloudfront.net/_66be7f271c4bcb7db1ea85d23ed59746/exxonmobil/db/2288/22190/webcast_transcript/4Q23+Earnings+Call+Transcript_Final.pdf,NEGATIVE,2.8333333333333335
+Amazon,AMZN,"April 27, 2023",Q1,$0.21,$0.31,-$0.10,https://s2.q4cdn.com/299287126/files/doc_financials/2023/q1/Q1-2023-Amazon-Earnings-Release.pdf,NEGATIVE,2.80327868852459
+Amazon,AMZN,"August 3, 2023",Q2,$0.35,$0.65,-$0.30,https://s2.q4cdn.com/299287126/files/doc_financials/2023/q2/Q2-2023-Amazon-Earnings-Release.pdf,NEUTRAL,3.0
+Amazon,AMZN,"October 26, 2023",Q3,$0.59,$0.94,-$0.35,https://s2.q4cdn.com/299287126/files/doc_financials/2023/q3/AMZN-Q3-2023-Earnings-Release.pdf,POSITIVE,3.076923076923077
+Amazon,AMZN,"February 1, 2024",Q4,$0.79,$1.00,-$0.21,https://s2.q4cdn.com/299287126/files/doc_financials/2023/q4/AMZN-Q4-2023-Earnings-Release.pdf,NEGATIVE,2.986666666666667
 Chevron,CVX,"April 28, 2023",Q1,$3.55,$3.40,$0.15,https://chevroncorp.gcs-web.com/static-files/f1679e16-3737-4731-aec9-5cc1d1053348,NEGATIVE,2.2027027027027026
 Chevron,CVX,"July 28, 2023",Q2,$3.08,$2.91,$0.17,https://chevroncorp.gcs-web.com/static-files/122d2ed1-cbca-44b8-9a8c-0a4bcb0677df,NEGATIVE,2.5135135135135136
 Chevron,CVX,"October 27, 2023",Q3,$3.05,$3.70,-$0.65,https://chevroncorp.gcs-web.com/static-files/4936e6fc-7035-4545-b1c1-e0c83ebd0caa,NEGATIVE,2.3442622950819674
-Chevron,CVX,"February 2, 2024",Q4,$3.19,$3.45,$0.26,https://chevroncorp.gcs-web.com/static-files/37524479-e840-4531-8097-f9a8e4e10357,NEGATIVE,2.7580645161290325
+Chevron,CVX,"February 2, 2024",Q4,$3.19,$3.45,-$0.26,https://chevroncorp.gcs-web.com/static-files/37524479-e840-4531-8097-f9a8e4e10357,NEGATIVE,2.7580645161290325
 Uber,UBER,"March 31, 2023",Q1,-$0.08,-$0.09,$0.01,https://s23.q4cdn.com/407969754/files/doc_financials/2023/q1/Uber-Q1-23-Prepared-Remarks.pdf,POSITIVE,3.2413793103448274
 Uber,UBER,"June 30, 2023",Q2,$0.18,-$0.01,$0.19,https://s23.q4cdn.com/407969754/files/doc_earnings/2023/q2/transcript/Uber-Q2-23-Prepared-Remarks.pdf,POSITIVE,3.793103448275862
 Uber,UBER,"September 30, 2023",Q3,$0.10,$0.07,$0.03,https://s23.q4cdn.com/407969754/files/doc_earnings/2023/q3/transcript/Uber-Q3-23-Prepared-Remarks.pdf,POSITIVE,3.5806451612903225
-Uber,UBER,"December 31, 2023",Q4,$0.16,$0.66,$0.50,https://s23.q4cdn.com/407969754/files/doc_earnings/2023/q4/transcript/Uber-Q4-23-Prepared-Remarks.pdf,POSITIVE,4.12
-JP,JPM,"April 14, 2023",Q1,$4.10,$3.41,$0.69,https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2023/1st-quarter/1q23-earnings-transcript.pdf,NEGATIVE,1.7083333333333333
-JP,JPM,"July 14, 2023",Q2,$4.75,$3.94,$0.81,https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2023/2nd-quarter/2q23-earnings-transcript.pdf,NEGATIVE,1.7951807228915662
-JP,JPM,"October 13, 2023",Q3,$4.33,$3.95,$0.38,https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2023/3rd-quarter/jpm-3q23-earnings-call-transcript.pdf,NEGATIVE,1.951219512195122
-JP,JPM,"January 12, 2024",Q4,$3.04,$3.35,-$0.31,https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2023/4th-quarter/jpm-4q23-earnings-call-transcript.pdf,NEGATIVE,2.253968253968254
+Uber,UBER,"December 31, 2023",Q4,$0.16,$0.66,-$0.50,https://s23.q4cdn.com/407969754/files/doc_earnings/2023/q4/transcript/Uber-Q4-23-Prepared-Remarks.pdf,POSITIVE,4.12
+JP Morgan,JPM,"April 14, 2023",Q1,$4.10,$3.41,$0.69,https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2023/1st-quarter/1q23-earnings-transcript.pdf,NEGATIVE,1.7083333333333333
+JP Morgan,JPM,"July 14, 2023",Q2,$4.75,$3.94,$0.81,https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2023/2nd-quarter/2q23-earnings-transcript.pdf,NEGATIVE,1.7951807228915662
+JP Morgan,JPM,"October 13, 2023",Q3,$4.33,$3.95,$0.38,https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2023/3rd-quarter/jpm-3q23-earnings-call-transcript.pdf,NEGATIVE,1.951219512195122
+JP Morgan,JPM,"January 12, 2024",Q4,$3.04,$3.35,-$0.31,https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2023/4th-quarter/jpm-4q23-earnings-call-transcript.pdf,NEGATIVE,2.253968253968254

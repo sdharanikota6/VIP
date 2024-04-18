@@ -73,13 +73,13 @@ company_name_mapping = {
 # Directory paths
 
 # /Users/sudeepdharanikota/Desktop/Spring 2024/NLP VIP/Replication
-base_dir_23 = '/Users/sudeepdharanikota/Desktop/Spring 2024/NLP VIP/Replication/transcripts_23'
-csv_path_23 = '/Users/sudeepdharanikota/Desktop/Spring 2024/NLP VIP/Replication/dataset_23.csv'
-output_csv_path_23 = '/Users/sudeepdharanikota/Desktop/Spring 2024/NLP VIP/Replication/dataset_with_sentiments23.csv'
+base_dir_23 = '/Users/aryangarg/Documents/GitHub/VIP/transcripts_23'
+csv_path_23 = '/Users/aryangarg/Documents/GitHub/VIP/dataset_23.csv'
+output_csv_path_23 = '/Users/aryangarg/Documents/GitHub/VIP/dataset_with_sentiments23.csv'
 
-base_dir_22 = '/Users/sudeepdharanikota/Desktop/Spring 2024/NLP VIP/Replication/transcripts_22'
-csv_path_22 = '/Users/sudeepdharanikota/Desktop/Spring 2024/NLP VIP/Replication/dataset_22.csv'
-output_csv_path_22 = '/Users/sudeepdharanikota/Desktop/Spring 2024/NLP VIP/Replication/dataset_with_sentiments22.csv'
+base_dir_22 = '/Users/aryangarg/Documents/GitHub/VIP/transcripts_22'
+csv_path_22 = '/Users/aryangarg/Documents/GitHub/VIP/dataset_22.csv'
+output_csv_path_22 = '/Users/aryangarg/Documents/GitHub/VIP/dataset_with_sentiments22.csv'
 
 # Read the datasets
 df_23 = pd.read_csv(csv_path_23)

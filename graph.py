@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the data
-df = pd.read_csv('/Users/aryangarg/Documents/GitHub/VIP/dataset_with_sentiments.csv')
+df = pd.read_csv('/Users/aryangarg/Documents/GitHub/VIP/dataset_with_sentiments23.csv')
 
 # Assuming 'Average_Score' column contains the sentiment scores
 # Filter out rows with no score
