@@ -43,8 +43,8 @@ def get_sentiment(transcript):
 def process_dataset(df, base_dir):
     for index, row in df.iterrows():
         company_name = row['Company'].strip()  # Trim any whitespace
-        folder_name = company_name_mapping.get(company_name, company_name)
         quarter = row['Quarter'].strip()  # Trim any whitespace
+        folder_name = company_name_mapping.get(company_name, company_name)
         transcript_file = f"{quarter}.txt"
         transcript_path = os.path.join(base_dir, folder_name, transcript_file)
 
